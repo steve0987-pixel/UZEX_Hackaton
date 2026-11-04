@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.e
+.venv/
+__pycache__/
+*.pyc
+runtime/
+uzex_spot_data/*.csv
+.vscode/
+node_modules/
+*.log
